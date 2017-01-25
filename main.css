@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    text-align: 60px;
+}
+
+.section-one {
+    min-height: 100vh;
+    width: 100vw;
+    max-width: none;
+    background-image: url('./background-with-adrian.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 50px;
+}
+
+.collapse {
+    background-color: #660000;
+}
+
+#about img {
+    width: 30em;
+    height: 30em;
+    border-radius: 150px;
+}
+
+#about {
+    text-align: center;
+}
+
+.divider {
+    height: 50px;
+}
+
+.navbar-default .navbar-nav>li>a:visited {
+    color: green;
+}
+
+.form-control {
+  margin: 10px 0;
+}
